@@ -777,7 +777,7 @@ body {
   }
 }
 
-@media (max-width: 570px){
+@media (max-width: 580px){
   :root {
     font-size: 50%;
   }
